@@ -1,28 +1,14 @@
-Sistema web de citas médicas
-
-Incluye:
-✅Login con roles
-✅Registro de Citas
-✅Registro de Pacientes
-✅Registro de Médicos
-✅Registro de áreas médicas
-✅Consulta de citas
-
-LA BASE DE DATOS SE LLAMA proyecto_final.sql
 
 ----ADMINISTRADOR-----
-USUARIO grace1804 
+USUARIO atila
 CONTRASEÑA 11111
 
 ------PACIENTES-----
-USUARIO manu 
+USUARIO juliov  
 CONTRASEÑA 11111
-b0baee9d279d34fa1dfd71aadb908c3f
 
-USUARIO leonar1
+
+USUARIO dianas
 CONTRASEÑA 11111
-b0baee9d279d34fa1dfd71aadb908c3f
 
----------------------
-Contáctame : unprogramadorrmas@gmail.com
-Si te gusta nuestro video, no olvidarse de darle like y suscribete al canal
+
